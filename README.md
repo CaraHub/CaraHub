@@ -1,4 +1,4 @@
-- 👋 try something
+try something
 
 <!---
 CaraHub/CaraHub is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
